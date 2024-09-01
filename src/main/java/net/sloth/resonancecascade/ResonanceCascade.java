@@ -58,7 +58,7 @@ public class ResonanceCascade {
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event)
         {
-
+            /* Ratatouille */
         }
     }
 }
